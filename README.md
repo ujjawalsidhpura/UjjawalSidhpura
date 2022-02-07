@@ -1,6 +1,6 @@
 ### Hello Humans!
 
-My name is Ujjawal (you can call me **usual**) or better let's go with my anglicized name **Ujay**. I am civil engineer/project manager turned into a full-stack Developer and Data analyst. I love working with PERN/MERN stack. My favourite scripting language is **JS**, while I am able also able to code in **Ruby, Python and TS**. This is the link to my portfolio. **Disclaimer: I love backend more than frontend**
+My name is Ujjawal (you can call me **usual**) or better let's go with my anglicized name **Ujay**. I am civil engineer/project manager turned into a full-stack Developer and Data analyst. I love working with PERN/MERN stack. My favourite scripting language is **JS**, but I can also code in **Ruby, Python and TS** if I have to, woot woot. This is the link to my portfolio. **Disclaimer: I love backend more than frontend**
 <br>
 https://ujay-portfolio.netlify.app/
 <br>
