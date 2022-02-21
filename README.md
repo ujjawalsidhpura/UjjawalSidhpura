@@ -8,3 +8,5 @@ Apart from coding and making real-life projects, I love to run, bike, yoga (clic
 <br>
 I am a coffee connoisseur who likes to explore different coffee joints and do extended coding sessions under the influence of <b>caffeine</b>.
 
+:computer:  :coffee:  :bicyclist: :runner: :tv:  :heart_decoration:  :canada:  :construction:  
+
